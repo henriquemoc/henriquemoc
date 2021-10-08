@@ -1,7 +1,9 @@
 ### Hey there! My name is Henrique, I'm 20, and currently an undergrad student at UFMG.
+#### I'm interested in computer vision and machine learning.
 
 <div><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemoc&show_icons=true&theme=radical&show_icons=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemoc&layout=compact&theme=radical&langs_count=7"/>
   
 </div>
 
@@ -14,7 +16,7 @@
 
 <div><br>
   <a href="http://lattes.cnpq.br/4978572565118006" target="lattes"><img height="35" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/lattes.png" target="lattes"></a>
-</div><br>
+</div><br><br>
 
 <!--
 **henriquemoc/henriquemoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
