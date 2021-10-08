@@ -1,4 +1,4 @@
-### Hey there! My name is Henrique, and I'm currently an undergrad student at UFMG.
+### Hey there! My name is Henrique, I'm 20, and currently an undergrad student at UFMG.
 
 <div><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemoc&show_icons=true&theme=radical&show_icons=true"/>
