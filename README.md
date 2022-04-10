@@ -1,4 +1,4 @@
-### Hey there! My name is Henrique, I'm 20, and currently an undergrad student at UFMG.
+### Hey there! My name is Henrique, I'm 21, and currently an undergrad student at UFMG.
 #### I'm interested in computer vision and machine learning.
 
 <div><br>
