@@ -1,5 +1,5 @@
-### Hey there! My name is Henrique, I'm 22, and currently an undergrad student at UFMG.
-#### I'm interested in computer vision and machine learning.
+### Hey there! My name is Henrique, I'm 24, and currently a masters student at UFMG.
+#### I'm interested in data science and machine learning.
 
 <div><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemoc&show_icons=true&theme=radical&show_icons=true"/>
