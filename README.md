@@ -2,8 +2,8 @@
 #### I'm interested in data science and machine learning.
 
 <div><br>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=henriquemoc&theme=radical&show_icons=true&&hide=prs"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemoc&layout=compact&theme=radical&langs_count=7&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=henriquemoc&theme=transparent&show_icons=true&hide=prs&commits_year=2026"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemoc&layout=compact&theme=transparent&langs_count=7&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook"/>
 </div>
 
 <div><br>
