@@ -7,26 +7,26 @@
 </div>
 
 <div><br>
-  <img align="center" alt="C" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="CPlusPlus" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="35" width="40" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/c-original.svg">
+  <img align="center" alt="CPlusPlus" height="35" width="40" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/cplusplus-original.svg">
+  <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/python-original.svg">
 </div>
 
 <div><br>
-  <img align="center" alt="Pytorch" height="35" width="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg">
-  <img align="center" alt="SKLearn" height="35" width="50" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/refs/heads/main/doc/logos/scikit-learn-logo-without-subtitle.svg">
-  <img align="center" alt="Pandas" height="35" width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg">
-  <img align="center" alt="Numpy" height="35" width="50" src="https://raw.githubusercontent.com/numpy/numpy/refs/heads/main/branding/logo/primary/numpylogo.svg">
-  <img align="center" alt="Matplotlib" height="35" width="50" src="https://raw.githubusercontent.com/valohai/ml-logos/refs/heads/master/matplotlib.svg">
-  <img align="center" alt="Plotly" height="35" width="50" src="https://en.wikipedia.org/wiki/Plotly#/media/File:Plotly-logo.png">
-  <img align="center" alt="Jupyter" height="35" width="50" src="https://raw.githubusercontent.com/jupyter/design/refs/heads/main/logos/Rectangle%20Logo/rectanglelogo-greytext-orangebody-greymoons/rectanglelogo-greytext-orangebody-greymoons.svg">
-  <img align="center" alt="Cuda" height="35" width="50" src="https://raw.githubusercontent.com/valohai/ml-logos/refs/heads/master/cuda.svg">
+  <img align="center" alt="Pytorch" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/pytorch-original-wordmark.svg">
+  <img align="center" alt="SKLearn" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/scikit-learn-logo-without-subtitle.svg">
+  <img align="center" alt="Pandas" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/pandas-original-wordmark.svg">
+  <img align="center" alt="Numpy" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/numpy-original-wordmark.svg">
+  <img align="center" alt="Matplotlib" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/matplotlib-original-wordmark.svg">
+  <img align="center" alt="Plotly" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/logos/Plotly-Logo-Black.svg">
+  <img align="center" alt="Jupyter" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/logos/rectanglelogo-greytext-orangebody-greymoons.svg">
+  <img align="center" alt="Cuda" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/logos/cuda.svg">
 </div>
 
 <div><br>
-  <a href="http://lattes.cnpq.br/4978572565118006" target="lattes"><img height="30" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/icon-curriculo-lattes.png" target="lattes"></a>
+  <a href="http://lattes.cnpq.br/4978572565118006" target="lattes"><img height="30" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/icon-curriculo-lattes.png" target="lattes"></a>
   <br>
-  <a href="https://www.linkedin.com/in/henrique-magalhaes-de-oliveira-carvalho" target="linkedin"><img height="30" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/LinkedIn_Logo.svg.png" target="linkedin"></a>
+  <a href="https://www.linkedin.com/in/henrique-magalhaes-de-oliveira-carvalho" target="linkedin"><img height="30" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/LinkedIn_Logo.svg.png" target="linkedin"></a>
 </div><br><br>
 
 <!--
