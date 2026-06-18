@@ -7,9 +7,9 @@
 </div>
 
 <div><br>
+  <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/python-original.svg">
   <img align="center" alt="C" height="35" width="40" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/c-original.svg">
   <img align="center" alt="CPlusPlus" height="35" width="40" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/cplusplus-original.svg">
-  <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/python-original.svg">
 </div>
 
 <div><br>
