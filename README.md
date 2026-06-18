@@ -2,16 +2,25 @@
 #### I'm interested in data science and machine learning.
 
 <div><br>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=henriquemoc&show_icons=true&theme=radical&show_icons=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemoc&layout=compact&theme=radical&langs_count=7"/>
-  
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=henriquemoc&theme=radical&show_icons=true&&hide=prs"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemoc&layout=compact&theme=radical&langs_count=7&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook"/>
 </div>
 
 <div><br>
   <img align="center" alt="C" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="CPlusPlus" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pytorch" height="35" width="40" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg">
+</div>
+
+<div><br>
+  <img align="center" alt="Pytorch" height="35" width="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg">
+  <img align="center" alt="SKLearn" height="35" width="50" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/refs/heads/main/doc/logos/scikit-learn-logo-without-subtitle.svg">
+  <img align="center" alt="Pandas" height="35" width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg">
+  <img align="center" alt="Numpy" height="35" width="50" src="https://raw.githubusercontent.com/numpy/numpy/refs/heads/main/branding/logo/primary/numpylogo.svg">
+  <img align="center" alt="Matplotlib" height="35" width="50" src="https://raw.githubusercontent.com/valohai/ml-logos/refs/heads/master/matplotlib.svg">
+  <img align="center" alt="Plotly" height="35" width="50" src="https://en.wikipedia.org/wiki/Plotly#/media/File:Plotly-logo.png">
+  <img align="center" alt="Jupyter" height="35" width="50" src="https://raw.githubusercontent.com/jupyter/design/refs/heads/main/logos/Rectangle%20Logo/rectanglelogo-greytext-orangebody-greymoons/rectanglelogo-greytext-orangebody-greymoons.svg">
+  <img align="center" alt="Cuda" height="35" width="50" src="https://raw.githubusercontent.com/valohai/ml-logos/refs/heads/master/cuda.svg">
 </div>
 
 <div><br>
