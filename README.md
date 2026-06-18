@@ -18,9 +18,9 @@
   <img align="center" alt="Pandas" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/pandas-original-wordmark.svg">
   <img align="center" alt="Numpy" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/numpy-original-wordmark.svg">
   <img align="center" alt="Matplotlib" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/matplotlib-original-wordmark.svg">
-  <img align="center" alt="Plotly" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/logos/Plotly-Logo-Black.svg">
-  <img align="center" alt="Jupyter" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/logos/rectanglelogo-greytext-orangebody-greymoons.svg">
-  <img align="center" alt="Cuda" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/logos/cuda.svg">
+  <img align="center" alt="Plotly" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/Plotly-Logo-Black.svg">
+  <img align="center" alt="Jupyter" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/rectanglelogo-greytext-orangebody-greymoons.svg">
+  <img align="center" alt="Cuda" height="35" width="50" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/cuda.svg">
 </div>
 
 <div><br>
