@@ -1,4 +1,4 @@
-### My name is Henrique, I'm 25, and currently a masters student at UFMG.
+### My name is Henrique, I'm 25 years old, and I'm currently a master's student at UFMG.
 #### I'm interested in data science and machine learning.
 
 <!--<div><br>
