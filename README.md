@@ -1,5 +1,5 @@
-### My name is Henrique, I'm 25 years old, and I'm currently a master's student at UFMG.
-#### I'm interested in data science and machine learning.
+#### My name is Henrique, I'm 25 yo, and I'm currently a master's student at UFMG.
+##### I'm interested in data science and machine learning.
 
 <!--<div><br>
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=henriquemoc&theme=transparent&show_icons=true&hide=prs&commits_year=2026"/>
