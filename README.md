@@ -1,10 +1,10 @@
 ### My name is Henrique, I'm 25, and currently a masters student at UFMG.
 #### I'm interested in data science and machine learning.
 
-<div><br>
+<!--<div><br>
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=henriquemoc&theme=transparent&show_icons=true&hide=prs&commits_year=2026"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemoc&layout=compact&theme=transparent&langs_count=7&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook"/>
-</div>
+</div>-->
 
 <div><br>
   <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/python-original.svg">
