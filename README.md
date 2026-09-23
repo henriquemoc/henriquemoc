@@ -24,8 +24,8 @@
 </div>
 
 <div><br>
-  <a href="http://lattes.cnpq.br/4978572565118006" target="lattes"><img height="30" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/icon-curriculo-lattes.png" target="lattes"></a>
-  <br>
+  <!--<a href="http://lattes.cnpq.br/4978572565118006" target="lattes"><img height="30" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/icon-curriculo-lattes.png" target="lattes"></a>
+  <br>-->
   <a href="https://www.linkedin.com/in/henrique-magalhaes-de-oliveira-carvalho" target="linkedin"><img height="30" src="https://raw.githubusercontent.com/henriquemoc/henriquemoc/main/logos/LinkedIn_Logo.svg.png" target="linkedin"></a>
 </div><br><br>
 
